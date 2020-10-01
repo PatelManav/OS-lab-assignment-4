@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-
+//first assignment 
 int main()
 {
     int pid1, pid2;

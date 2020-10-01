@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #define and &&
-
+//sleep and fork example
 int pid2;
 int main()
 {
